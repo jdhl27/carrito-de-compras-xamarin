@@ -1,0 +1,27 @@
+# Xamarin / Visual Studio
+bin/
+obj/
+*.userprefs
+*.suo
+*.user
+*.vs/
+*.sln.ide
+
+# NuGet
+packages/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Xamarin Test Cloud
+TestCloud*.dll
+TestResult.xml
